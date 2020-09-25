@@ -1,0 +1,8 @@
+.menu-nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.menu-nav p {
+  margin-left: 2em;
+}
